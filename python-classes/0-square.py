@@ -11,3 +11,4 @@ class Square:
                   verification as per the requirements.
         """
         self.__size = size
+
